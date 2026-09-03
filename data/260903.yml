@@ -1,17 +1,19 @@
 about:
-  description: An interactive TUI for Homebrew
+  description:
+  |
+    An interactive TUI for Homebrew
   license: MIT
   homepage: 
   head: a26afac
   archived: false
   latestVersion: v0.6.2
-  collectedAt: 2026-09-03T05:14:37Z
+  collectedAt: 2026-09-03T22:36:39Z
 timeline:
   created: 2025-06-26
   lastCommit: 2026-07-13
   lastRelease: 2026-07-13
 popularity:
-  star: 720
+  star: 721
   watcher: 1
   fork: 16
   release: 30
@@ -21,7 +23,7 @@ popularity:
 language:
   Go: 93615
   Makefile: 1187
-totalLine: 94802
+totalBytes: 94802
 recent:
   last30d:
     since: 2026-08-04
