@@ -5,7 +5,7 @@ about:
   head: a26afac
   archived: false
   latestVersion: "v0.6.2"
-  collectedAt: 2026-09-07T05:29:58Z
+  collectedAt: 2026-09-07T18:55:10Z
 timeline:
   created: 2025-06-26
   lastCommit: 2026-07-13
@@ -80,7 +80,7 @@ total:
   commit: 209
 ---
 path: /home/runner/.x-repo/github.com/hzqtc/taproom
-collectedAt: 2026-09-07T05:29:58Z
+collectedAt: 2026-09-07T18:55:11Z
 loc:
   Go:
     code: 3115
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:29:59+00:00
+  collectedAt: 2026-09-07T18:55:12+00:00
   platform:
     darwin/arm64:
       name:  taproom-darwin-arm64.tar.gz
