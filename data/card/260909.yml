@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.2"
   latestRelease: "v0.6.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:40:59Z
+  collectedAt: 2026-09-09T20:05:38Z
 timeline:
   created: 2025-06-26
   lastCommit: 2026-07-13
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-13
   lastPrerelease: 
 popularity:
-  star: 722
+  star: 723
   watcher: 1
   fork: 16
   release: 30
@@ -84,7 +84,7 @@ total:
   commit: 209
 ---
 path: /home/runner/.x-repo/github.com/hzqtc/taproom
-collectedAt: 2026-09-09T05:41:00Z
+collectedAt: 2026-09-09T20:05:39Z
 loc:
   Go:
     code: 3115
