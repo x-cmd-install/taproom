@@ -7,7 +7,7 @@ An interactive TUI for Homebrew
 - **Latest release**: `v0.6.2` (2026-07-13)
 - **Last commit**: 2026-07-13
 - **License**: MIT
-- **Stars**: 722 · **Forks**: 16 · **Open issues**: 21 · **Contributors**: 8
+- **Stars**: 723 · **Forks**: 16 · **Open issues**: 21 · **Contributors**: 8
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/taproom> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:41:03Z._
+_Last regenerated: 2026-09-09T20:05:44Z._
