@@ -12,6 +12,16 @@ An interactive TUI for Homebrew
 x install taproom
 ```
 
+## Code insight
+
+Total: **3,155** lines of code across **29** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 3,115 | 123 | 471 | 27 |
+| Makefile | 40 | 0 | 10 | 1 |
+| Markdown | 0 | 102 | 33 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/hzqtc/taproom>
@@ -22,11 +32,10 @@ x install taproom
 - **Latest**: `v0.6.2` (2026-07-13)
 - **Last commit**: 2026-07-13
 - **Assets in release**: 3
-- **Published**: 2026-07-13T02:36:23Z
 
 ## Popularity
 
-- **Stars**: 724 · **Forks**: 16 · **Open issues**: 21 · **Contributors**: 8
+- **Stars**: 723 · **Forks**: 16 · **Open issues**: 21 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -37,26 +46,27 @@ x install taproom
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 1 | 2 | 1 | 2 | 3 | 6 |
+| last180d | 2026-03-14 | 3 | 3 | 1 | 3 | 4 | 11 |
 | 360d | 2025-09-15 | 7 | 6 | 2 | 6 | 7 | 17 |
+| last720d | 2024-09-20 | 30 | 10 | 2 | 14 | 7 | 209 |
 
-## Code size
+## Release assets
 
-Total: **3,155** lines of code across **29** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 3,115 | 123 | 471 | 27 |
-| Makefile | 40 | 0 | 10 | 1 |
-| Markdown | 0 | 102 | 33 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksum.txt](https://github.com/hzqtc/taproom/releases/download/v0.6.2/checksum.txt) | 188 B | `other` |
+| [taproom-darwin-amd64.tar.gz](https://github.com/hzqtc/taproom/releases/download/v0.6.2/taproom-darwin-amd64.tar.gz) | 5.8 MiB | `native/darwin/x64` |
+| [taproom-darwin-arm64.tar.gz](https://github.com/hzqtc/taproom/releases/download/v0.6.2/taproom-darwin-arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
 
 ## Improve this data
 
 Install metadata for taproom lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `taproom` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/taproom.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/taproom.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:37:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:37:21Z._
