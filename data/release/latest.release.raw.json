@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5725159,
       "digest": "sha256:1d29d93afea2437b0c761cec0cc8b0f353683815b02f839dd5d2b8a0b5e383cc",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-07-13T02:35:57Z",
       "updated_at": "2026-07-13T02:36:22Z",
       "browser_download_url": "https://github.com/hzqtc/taproom/releases/download/v0.6.2/taproom-darwin-arm64.tar.gz"
