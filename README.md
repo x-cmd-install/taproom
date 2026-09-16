@@ -35,7 +35,7 @@ Total: **3,155** lines of code across **29** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 727 · **Forks**: 16 · **Open issues**: 21 · **Contributors**: 8
+- **Stars**: 727 · **Forks**: 15 · **Open issues**: 21 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **3,155** lines of code across **29** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-17 | 1 | 2 | 1 | 2 | 3 | 5 |
-| last180d | 2026-03-19 | 3 | 3 | 1 | 3 | 4 | 11 |
-| 360d | 2025-09-20 | 4 | 6 | 2 | 6 | 7 | 17 |
-| last720d | 2024-09-25 | 30 | 10 | 2 | 14 | 7 | 209 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-18 | 1 | 2 | 1 | 2 | 3 | 5 |
+| last180d | 2026-03-20 | 3 | 3 | 1 | 3 | 4 | 11 |
+| 360d | 2025-09-21 | 4 | 6 | 2 | 6 | 7 | 17 |
+| last720d | 2024-09-26 | 30 | 10 | 2 | 14 | 7 | 209 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for taproom lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:01:40Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:05:32Z._
