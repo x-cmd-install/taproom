@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 188,
       "digest": "sha256:c68c0be035a2e0e2e7d944f1476c36f5ff7eda9923f5acf447be8816157d3e35",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-07-13T02:35:57Z",
       "updated_at": "2026-07-13T02:35:57Z",
       "browser_download_url": "https://github.com/hzqtc/taproom/releases/download/v0.6.2/checksum.txt"
