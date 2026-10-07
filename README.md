@@ -35,22 +35,22 @@ Total: **3,155** lines of code across **29** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 732 · **Forks**: 16 · **Open issues**: 21 · **Contributors**: 8
+- **Stars**: 733 · **Forks**: 17 · **Open issues**: 21 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 10 · **Open PRs**: 2 · **Closed issues**: 14 · **Open issues**: 7 · **Commits**: 209
+- **Releases**: 30 · **Merged PRs**: 10 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 7 · **Commits**: 209
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-08 | 1 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-09 | 3 | 2 | 1 | 2 | 4 | 9 |
-| 360d | 2025-10-11 | 4 | 6 | 2 | 4 | 6 | 16 |
-| last720d | 2024-10-16 | 30 | 10 | 2 | 14 | 7 | 209 |
+| 30d | 2026-09-07 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-09 | 1 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-10 | 3 | 2 | 2 | 2 | 4 | 9 |
+| 360d | 2025-10-12 | 4 | 6 | 3 | 4 | 6 | 16 |
+| last720d | 2024-10-17 | 30 | 10 | 3 | 14 | 7 | 209 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for taproom lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:05:59Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:38:27Z._
