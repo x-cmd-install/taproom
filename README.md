@@ -14,13 +14,13 @@ x install taproom
 
 ## Code insight
 
-Total: **3,155** lines of code across **29** files in the top 5 languages.
+Total: **3,795** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,115 | 123 | 471 | 27 |
+| Go | 3,755 | 130 | 546 | 31 |
 | Makefile | 40 | 0 | 10 | 1 |
-| Markdown | 0 | 102 | 33 | 1 |
+| Markdown | 0 | 103 | 33 | 1 |
 
 ## Source
 
@@ -29,36 +29,36 @@ Total: **3,155** lines of code across **29** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.6.2` (2026-07-13)
-- **Last commit**: 2026-07-13
+- **Latest**: `v0.7.2` (2026-11-19)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 740 · **Forks**: 19 · **Open issues**: 21 · **Contributors**: 8
+- **Stars**: 740 · **Forks**: 19 · **Open issues**: 21 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 10 · **Open PRs**: 4 · **Closed issues**: 14 · **Open issues**: 7 · **Commits**: 209
+- **Releases**: 33 · **Merged PRs**: 11 · **Open PRs**: 2 · **Closed issues**: 16 · **Open issues**: 5 · **Commits**: 224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 3 | 2 | 3 | 2 | 4 | 9 |
-| 360d | 2025-11-22 | 4 | 5 | 4 | 4 | 5 | 16 |
-| last720d | 2024-11-27 | 30 | 10 | 4 | 14 | 7 | 209 |
+| 30d | 2026-10-20 | 3 | 1 | 0 | 0 | 0 | 10 |
+| last60d | 2026-09-20 | 3 | 1 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-21 | 3 | 1 | 0 | 0 | 0 | 10 |
+| last180d | 2026-05-23 | 6 | 3 | 1 | 4 | 2 | 23 |
+| 360d | 2025-11-24 | 7 | 6 | 2 | 6 | 3 | 30 |
+| last720d | 2024-11-29 | 33 | 11 | 2 | 16 | 5 | 224 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksum.txt](https://github.com/hzqtc/taproom/releases/download/v0.6.2/checksum.txt) | 188 B | `other` |
-| [taproom-darwin-amd64.tar.gz](https://github.com/hzqtc/taproom/releases/download/v0.6.2/taproom-darwin-amd64.tar.gz) | 5.8 MiB | `native/darwin/x64` |
-| [taproom-darwin-arm64.tar.gz](https://github.com/hzqtc/taproom/releases/download/v0.6.2/taproom-darwin-arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [checksum.txt](https://github.com/hzqtc/taproom/releases/download/v0.7.2/checksum.txt) | 188 B | `other` |
+| [taproom-darwin-amd64.tar.gz](https://github.com/hzqtc/taproom/releases/download/v0.7.2/taproom-darwin-amd64.tar.gz) | 6.4 MiB | `native/darwin/x64` |
+| [taproom-darwin-arm64.tar.gz](https://github.com/hzqtc/taproom/releases/download/v0.7.2/taproom-darwin-arm64.tar.gz) | 6.0 MiB | `native/darwin/arm64` |
 
 ## Improve this data
 
@@ -69,4 +69,4 @@ Install metadata for taproom lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:52:22Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:06:34Z._
