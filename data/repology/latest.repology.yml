@@ -1,14 +1,14 @@
 - repo: homebrew
   srcname: taproom
   visiblename: taproom
-  version: 0.6.2
+  version: HEAD
   origversion: null
-  status: unique
+  status: rolling
   summary: Interactive TUI for Homebrew
 - repo: homebrew
   srcname: taproom
   visiblename: taproom
-  version: HEAD
+  version: 0.7.1
   origversion: null
-  status: rolling
+  status: unique
   summary: Interactive TUI for Homebrew
